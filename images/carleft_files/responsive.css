@@ -1,0 +1,2390 @@
+@media (max-width: 481px) {
+  .wpb_wrapper h3 {
+    text-align: left;
+  }
+
+  .contatct {
+    margin: 0px 0 !important;
+  }
+
+  .contatct .inquryform {
+    background: #efefef;
+    padding-top: 15px;
+  }
+
+  .table-responsive {
+    border: 0px;
+  }
+
+  .about_section table tr td {
+    padding: 10px 15px;
+    width: auto;
+    font-size: 13px;
+    border: 1px solid #ccc;
+  }
+
+  .about_section table {
+    margin-top: 20px;
+  }
+
+  .moreabout h2 {
+    text-align: left;
+    font-size: 17px;
+  }
+
+  .wpb_wrapper h2 {
+    text-align: left;
+    font-size: 17px;
+    margin-bottom: 10px;
+  }
+
+  .mainrelative {
+    height: 200px;
+    margin-bottom: 0px;
+  }
+
+  .mainrelative:hover .activities_photos,
+  .popularimage:hover .popularimaghover {
+    left: 0px;
+    bottom: 0px;
+    top: 0px;
+    right: 0px;
+    font-size: 12px;
+  }
+
+  .mainrelative:hover p::-webkit-scrollbar {
+    width: 0px;
+  }
+
+  #responsive-menu-container
+    #responsive-menu
+    li.responsive-menu-item
+    a
+    .responsive-menu-subarrow {
+    width: 100% !important;
+    text-align: right;
+    background: transparent !important;
+    padding-right: 15px !important;
+    cursor: pointer;
+  }
+
+  .activities_photos p {
+    overflow: auto;
+    height: 180px;
+  }
+
+  .activities_class h2 {
+    font-size: 14px;
+    padding-top: 10px !important;
+  }
+
+  .commonbg h1 {
+    padding: 30px 0 !important;
+  }
+
+  .commonbg h1,
+  .solialliii i {
+    font-size: 18px;
+  }
+
+  .activities_class {
+    padding: 15px 15px;
+  }
+
+  .activities_class img {
+    margin-bottom: 0px;
+  }
+
+  /* activities */
+
+  /* 25-10-19*/
+
+  .marginvlass {
+    padding: 0 5px !important;
+    margin-bottom: 10px;
+    height: 162px;
+  }
+
+  .fixclass {
+    padding-top: 0px;
+  }
+
+  .positionclass,
+  .positionclass1 {
+    height: auto;
+    padding: 0px;
+    line-height: 30px;
+  }
+
+  .popularimage {
+    height: 150px;
+    margin: 0px;
+  }
+
+  .border_poly {
+    font-size: 11px;
+    padding: 0px;
+    height: auto;
+    line-height: 30px;
+  }
+
+  .popularimage:hover .popularimaghover {
+    display: block !important;
+    background: rgba(65, 149, 176, 0.68);
+    z-index: 99999999;
+    width: 100%;
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+    font-size: 11px;
+  }
+
+  .popularimage112:hover .popularimaghover112,
+  .popularimage11:hover .popularimaghover11 {
+    font-size: 11px;
+  }
+
+  .backgroundclass {
+    display: none;
+  }
+
+  .popularimage11 {
+    height: 100%;
+  }
+
+  /*last*/
+
+  .inquryform {
+    width: 100% !important;
+    border: 0 !important;
+
+    background: url(../images/lakes.jpg) center center;
+    border-radius: 0;
+  }
+
+  .about-responsive {
+    display: block;
+    width: 60%;
+    float: left;
+    margin-right: 10px;
+  }
+
+  .form3 {
+    margin-left: 2px;
+    margin-top: 2px;
+  }
+
+  .fixwitdh1last {
+    width: 100%;
+  }
+
+  .pr0 {
+    padding: 5px 5px;
+  }
+
+  .rent ul {
+    display: none;
+  }
+
+  #main_slider {
+    display: none;
+  }
+
+  .difff1 {
+    margin-right: 2px;
+    margin-top: 2px;
+  }
+
+  /*latest Changes*/
+
+  .indiaflag,
+  .indiaflag1,
+  .main_menu,
+  .next1manyimage,
+  .prev1manyimage {
+    display: none;
+  }
+
+  .affix,
+  .logo {
+    position: static !important;
+  }
+
+  .about_section,
+  .welcomemsg h1,
+  .welcomemsg p {
+    text-align: center;
+  }
+
+  .logo {
+    background: #fff;
+    width: 100%;
+  }
+
+  #jcrevents h4 {
+    font-size: 18px;
+    width: 95%;
+    margin: 0 10px;
+  }
+
+  .padding_img {
+    padding: 20px 0;
+  }
+
+  #responsive-menu-container {
+    z-index: 99999999999 !important;
+  }
+
+  .fixwitdh1,
+  .form3 label,
+  .header {
+    width: 100%;
+  }
+
+  .formdiv {
+    right: 0 !important;
+    margin-right: 0 !important;
+    top: 0px !important;
+    margin-top: 0px;
+    position: static !important;
+  }
+
+  .logo img {
+    margin: 16px 0;
+  }
+
+  .header {
+    background: #fff;
+  }
+
+  button#responsive-menu-button {
+    width: 40px !important;
+    height: 40px !important;
+    background: #009ddc !important;
+    position: absolute !important;
+    top: 60px !important;
+    right: 5% !important;
+  }
+
+  #jcrevents {
+    padding: 20px 15px !important;
+  }
+
+  .carsection,
+  .carsection1,
+  .footer_class,
+  .footeraddres {
+    display: none !important;
+  }
+
+  .footermain-bg p {
+    display: none;
+  }
+
+  .classimgresponsive img,
+  .fixwitdh {
+    width: 100%;
+  }
+
+  .inquryform input {
+    margin-bottom: 0;
+    border: 0;
+  }
+
+  .form1 {
+    margin-bottom: 10px;
+    width: 49% !important;
+    margin: 3px 1.5px;
+  }
+
+  .welcomemsg h1 {
+    font-size: 23px;
+  }
+
+  .welcomemsg {
+    padding: 10px;
+  }
+
+  .middle {
+    padding: 15px 10px;
+  }
+
+  .form2 input {
+    margin-left: 0 !important;
+  }
+
+  .inquryform button {
+    width: 100%;
+    margin: 0;
+  }
+
+  .inquryform textarea {
+    border: 0px;
+    width: 99%;
+    margin: 3px auto;
+    display: block;
+  }
+
+  .about_section {
+    padding: 25px 0 !important;
+  }
+
+  .wpb_single_image.vc_align_left {
+    text-align: left !important;
+  }
+
+  #huge_it_gallery_content_2 img,
+  .element_2 .image-block_2 img {
+    width: 100% !important;
+  }
+
+  .about_section h3 {
+    font-size: 20px;
+    line-height: 36px;
+  }
+
+  .extraabout {
+    padding: 20px 15px !important;
+  }
+
+  .about_section a {
+    margin: 20px auto;
+  }
+
+  .about_section p {
+    padding-bottom: 0;
+    color: #4f4f4f;
+    font-size: 13px;
+    line-height: 22px;
+  }
+
+  .rent h2 {
+    font-size: 18px;
+    line-height: 30px;
+  }
+
+  .rent {
+    padding: 25px 0;
+  }
+
+  .rent p {
+    padding: 0 !important;
+    text-align: center;
+  }
+
+  .rent ul li {
+    display: inline-block;
+    padding: 3px 8px;
+    background: #1897bf;
+    margin: 5px;
+  }
+
+  .rent ul li a {
+    color: #fff;
+  }
+
+  .rotate_div1 {
+    position: absolute;
+  }
+
+  .rotate_div {
+    transform: inherit;
+    width: 100%;
+    border: 1px solid #c5c5c5;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    height: 157px;
+  }
+
+  .rotate_div img {
+    transform: inherit;
+    width: 70%;
+    margin: 0px;
+  }
+
+  .rotate_div:hover .rotate_div1 {
+    transform: inherit;
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    font-size: 15px;
+  }
+
+  .rotate_div1 h3 {
+    transform: inherit;
+    margin: 50px 0 !important;
+    font-size: 14px;
+  }
+
+  .rotatecar {
+    padding: 0px 0;
+  }
+
+  .innerser {
+    width: 77%;
+  }
+
+  .innerser h3 {
+    font-size: 16px;
+  }
+
+  .readmore a {
+    margin-top: 15px !important;
+  }
+
+  .one {
+    margin-top: 0;
+  }
+
+  .fixclass img {
+    margin-bottom: 10px;
+  }
+
+  .footermain-bg {
+    padding: 20px 0;
+  }
+
+  .lastfooterlink ul li {
+    margin-left: 0;
+    padding: 0 10px;
+  }
+
+  .solialliii i {
+    font-size: 22px;
+  }
+
+  .footermain-bottom p {
+    text-align: center;
+    font-size: 13px;
+  }
+
+  .textcen {
+    text-align: center !important;
+    padding-top: 5px;
+    font-size: 13px;
+  }
+
+  #responsive-menu-container
+    #responsive-menu
+    li.responsive-menu-item
+    .responsive-menu-item-link {
+    text-transform: uppercase !important;
+    font-family: latomedium !important;
+  }
+
+  .commonbg h4 {
+    padding: 25px 0 !important;
+    font-size: 20px;
+  }
+
+  .moreabout {
+    padding: 25px 15px !important;
+  }
+
+  .contatct h5 {
+    text-align: center;
+    line-height: 30px;
+    font-size: 18px;
+  }
+
+  .contatct .form1 {
+    margin-bottom: 10px !important;
+  }
+
+  .contatct button {
+    width: 100% !important;
+  }
+
+  .lastcontact {
+    padding: 0;
+  }
+
+  .lastcontact ul li p {
+    font-size: 16px;
+  }
+
+  .map {
+    padding: 0 8px;
+  }
+
+  .current_page_item a {
+    color: #009ddc !important;
+  }
+
+  .positionclass {
+    right: -10px;
+  }
+  .about-us {
+    margin-top: 25px;
+    margin-bottom: 0px;
+  }
+  .about-us h1 {
+    font-size: 18px;
+    margin-bottom: 5px !important;
+  }
+  .about-us p {
+    font-size: 11px;
+    padding-bottom: 5px;
+    line-height: 17px;
+  }
+  .about-us img {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  .customer-reviews h2 {
+    font-size: 14px;
+    padding: 20px 0px 20px 0px !important;
+  }
+  .review-btn a {
+    font-size: 10px;
+    padding: 5px 10px;
+  }
+  .review-btn {
+    padding-top: 24px !important;
+  }
+  .review-box-resp {
+    padding-right: 0px;
+  }
+  .review-box-responsive {
+    padding-left: 0px;
+  }
+  .review-box-img {
+    margin-top: 10px;
+    margin-left: 0px;
+    width: 200%;
+  }
+  .review-box-img-about {
+    margin-top: 10px;
+    margin-left: 0px;
+    width: 100% !important;
+  }
+  .review-box i {
+    margin-top: 20px;
+    font-size: 11px;
+  }
+  .review-detail {
+    padding-left: 10px;
+  }
+  .jodhpur-taxi {
+    margin-top: 10px;
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  .jodhpur-taxi-btn a {
+    font-size: 11px;
+    padding: 6px 11px !important;
+  }
+  .jodhpur-taxi-btn {
+    margin-top: 15px !important;
+    margin-bottom: 25px !important;
+  }
+  .price-table h3 {
+    font-size: 16px;
+    padding-bottom: 10px !important;
+  }
+  .price-table-jodhpur {
+    margin-top: -10px !important;
+  }
+
+  .review-box span {
+    font-size: 11px;
+  }
+  .review-box h3 {
+    font-size: 11px;
+    line-height: 15px;
+  }
+  .review-box h4 {
+    font-size: 12px !important;
+    padding-top: 5px !important;
+  }
+  .review-box p {
+    font-size: 11px;
+    text-align: justify;
+    padding-top: 5px !important;
+    padding-right: 15px;
+    line-height: 18px;
+  }
+  .review-box h5 a {
+    font-size: 10px;
+  }
+  .review-box h5 {
+    padding-top: 10px !important;
+  }
+  .review-box {
+    padding-bottom: 15px;
+    margin-bottom: 20px;
+    padding-left: 10px;
+  }
+  .reviews {
+    background: #f8f8f8;
+    padding-bottom: 10px;
+  }
+  .about-services h5 {
+    font-size: 20px;
+    padding-top: 20px !important;
+    padding-bottom: 15px !important;
+  }
+  .jcr-cars h6 {
+    font-size: 12px;
+    padding: 8px 10px !important;
+  }
+  .jcr-cars {
+    margin-bottom: 30px;
+  }
+  .cab-row {
+    padding-bottom: 0px;
+  }
+  .jcr-cars img {
+    width: 100%;
+  }
+  .tripadvisor-reviews h2 {
+    font-size: 14px;
+    padding: 20px 0px 15px 0px !important;
+  }
+  .tripadvisor-reviews-fluid {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+  .trip-box p a {
+    font-size: 10px;
+  }
+  .trip-review-p {
+    padding-right: 20px !important;
+  }
+  .trip-box hr {
+    width: 96% !important;
+    margin-top: 10px !important;
+  }
+  .abput-next-btn a {
+    font-size: 11px;
+    padding: 4px 12px;
+  }
+  .abput-next-btn {
+    margin-top: 20px !important;
+    margin-bottom: 25px !important;
+  }
+  .trip-row {
+    background: #ffffff;
+    margin-bottom: 20px;
+  }
+  .trip-box img {
+    margin-left: 0px !important;
+    margin-top: 5px;
+  }
+  .advisor-review {
+    margin-top: -10px;
+    margin-bottom: 10px;
+  }
+  .our-partners-row {
+    margin-bottom: 30px;
+  }
+  .price-table table thead tr th {
+    padding: 9px 16px !important;
+    font-size: 11px;
+  }
+  .th-width {
+    width: 57%;
+  }
+  .price-table h2 {
+    font-size: 12px;
+    padding-bottom: 10px !important;
+  }
+  .price-table table tbody tr td {
+    padding: 9px 16px !important;
+    font-size: 11px;
+  }
+  .price-table-bottom h3 {
+    font-size: 12px;
+    padding-bottom: 10px !important;
+  }
+  .price-table-bottom table thead tr th {
+    padding: 9px 16px !important;
+    font-size: 11px;
+  }
+  .thead-th-width {
+    width: 42%;
+  }
+  .price-table-bottom table tbody tr td {
+    padding: 9px 16px !important;
+    font-size: 11px;
+  }
+  .price-table {
+    margin-top: 0px;
+    margin-bottom: 15px;
+  }
+  .table-row {
+    margin-top: 30px;
+  }
+  .traveller-detail h4 {
+    font-size: 18px;
+    margin-top: 20px !important;
+    margin-bottom: 10px !important;
+  }
+  .traveller-detail-box i {
+    padding: 5px 9px;
+    font-size: 18px;
+    margin-right: 5px;
+  }
+  .traveller-que {
+    padding: 20px 20px 0px 20px !important;
+  }
+  .traveller-detail-box h5 p {
+    font-size: 11px;
+    line-height: 15px;
+  }
+  .traveller-detail-box p {
+    font-size: 11px;
+    margin-bottom: 10px;
+    padding-left: 35px;
+  }
+  .traveller-detail-box h6 {
+    font-size: 11px !important;
+    padding: 12px 0px 12px 25px !important;
+  }
+  .traveller-detail-box h6 a {
+    font-size: 12px;
+    margin-left: 5px !important;
+  }
+  .traveller-input span {
+    font-size: 11px;
+  }
+  .traveller-detail-box {
+    margin-bottom: 30px;
+  }
+  .traveller-form h4 {
+    font-size: 18px;
+    margin-top: 0px !important;
+    margin-bottom: 10px !important;
+  }
+  .traveller-input input {
+    width: 100%;
+  }
+  .traveller-input textarea {
+    width: 100%;
+  }
+  .traveller-input button {
+    font-size: 11px;
+    padding: 6px 15px;
+  }
+  .traveller-input {
+    margin-bottom: 45px;
+  }
+  .traveller-seats {
+    margin-top: 30px;
+    margin-bottom: 0px;
+  }
+  .about-traveller h6 {
+    font-size: 16px;
+    line-height: 23px;
+    padding-top: 25px !important;
+    padding-bottom: 10px !important;
+  }
+  .about-traveller p {
+    font-size: 12px;
+    line-height: 18px;
+    margin-bottom: 5px !important;
+  }
+  .traveller-img {
+    margin-top: 0px !important;
+  }
+  .about-us-traveller {
+    margin-bottom: 20px;
+    margin-top: 0px !important;
+  }
+  .seat-row {
+    padding-bottom: 15px;
+  }
+  .traveller-seats img {
+    width: 100%;
+  }
+  .taxi-in-jodhpur h1 {
+    color: #333333;
+    font-family: philosopherbold;
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 0px !important;
+    margin-top: 25px !important;
+    text-align: center;
+  }
+  .taxi-in-jodhpur p {
+    font-family: open_sansregular;
+    color: #4f4f4f;
+    font-size: 11px;
+    line-height: 15px;
+    padding-top: 5px !important;
+    padding-bottom: 0px;
+    text-align: center;
+  }
+  .jodhpur-btn a {
+    font-size: 11px;
+    padding: 5px 10px !important;
+  }
+  .jodhpur-about-img {
+    margin-top: 20px !important;
+    margin-bottom: 15px;
+  }
+  .price-table .panel-title > a,
+  .price-table .panel-title > a:active {
+    padding: 10px 16px !important;
+    font-size: 12px;
+  }
+  .faq-collaps {
+    font-size: 12px !important;
+  }
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+  .wpb_wrapper h3 {
+    text-align: left;
+  }
+
+  .contatct {
+    margin: 0px 0 !important;
+  }
+
+  .contatct .inquryform {
+    background: #efefef;
+    padding-top: 15px;
+  }
+
+  .table-responsive {
+    border: 0px;
+  }
+
+  .about_section table tr td {
+    padding: 10px 15px;
+    width: auto;
+    font-size: 13px;
+    border: 1px solid #ccc;
+  }
+
+  .about_section table {
+    margin-top: 20px;
+  }
+
+  .moreabout h2 {
+    text-align: left;
+    font-size: 17px;
+  }
+
+  .wpb_wrapper h2 {
+    text-align: left;
+    font-size: 17px;
+    margin-bottom: 10px;
+  }
+
+  .mainrelative {
+    height: 200px;
+    margin-bottom: 0px;
+  }
+
+  .mainrelative:hover .activities_photos,
+  .popularimage:hover .popularimaghover {
+    left: 0px;
+    bottom: 0px;
+    top: 0px;
+    right: 0px;
+    font-size: 12px;
+  }
+
+  .mainrelative:hover p::-webkit-scrollbar {
+    width: 0px;
+  }
+
+  #responsive-menu-container
+    #responsive-menu
+    li.responsive-menu-item
+    a
+    .responsive-menu-subarrow {
+    width: 100% !important;
+    text-align: right;
+    background: transparent !important;
+    padding-right: 15px !important;
+    cursor: pointer;
+  }
+
+  .activities_photos p {
+    overflow: auto;
+    height: 180px;
+  }
+
+  .activities_class h2 {
+    font-size: 14px;
+    padding-top: 10px !important;
+  }
+
+  .commonbg h1 {
+    padding: 30px 0 !important;
+  }
+
+  .commonbg h1,
+  .solialliii i {
+    font-size: 18px;
+  }
+
+  .activities_class {
+    padding: 15px 15px;
+  }
+
+  .activities_class img {
+    margin-bottom: 0px;
+  }
+
+  /* activities */
+
+  /* 25-10-19*/
+
+  .marginvlass {
+    padding: 0 !important;
+    margin-bottom: 10px;
+    height: 162px;
+  }
+
+  .fixclass {
+    padding-top: 0px;
+  }
+
+  .positionclass,
+  .positionclass1 {
+    height: auto;
+    padding: 0px;
+    line-height: 30px;
+  }
+
+  .popularimage {
+    height: 150px;
+    margin: 0px;
+  }
+
+  .border_poly {
+    font-size: 11px;
+    padding: 0px;
+    height: auto;
+    line-height: 30px;
+  }
+
+  .popularimage:hover .popularimaghover {
+    display: block !important;
+    background: rgba(65, 149, 176, 0.68);
+    z-index: 99999999;
+    width: 100%;
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+    font-size: 11px;
+  }
+
+  .popularimage112:hover .popularimaghover112,
+  .popularimage11:hover .popularimaghover11 {
+    font-size: 11px;
+  }
+
+  .backgroundclass {
+    display: none;
+  }
+
+  .popularimage11 {
+    height: 100% !important;
+  }
+
+  /*last*/
+  .affix,
+  .logo {
+    position: static !important;
+  }
+
+  .inquryform {
+    width: 100% !important;
+    border: 0 !important;
+
+    background: url(../images/lakes.jpg) center center;
+    border-radius: 0;
+  }
+
+  .about-responsive {
+    display: block;
+    width: 60%;
+    float: left;
+    margin-right: 10px;
+  }
+
+  .form3 {
+    margin-left: 2px;
+    margin-top: 2px;
+  }
+
+  .fixwitdh1last {
+    width: 100%;
+  }
+
+  .pr0 {
+    padding: 5px 5px;
+  }
+
+  .rent ul {
+    display: none;
+  }
+
+  #main_slider {
+    display: none;
+  }
+
+  .difff1 {
+    margin-right: 2px;
+    margin-top: 2px;
+  }
+
+  /*latest Changes*/
+  .logo,
+  .popularimage11,
+  .popularimage11 img,
+  .popularimage112,
+  .popularimage112 img {
+    height: auto;
+  }
+
+  .indiaflag,
+  .indiaflag1,
+  .main_menu,
+  .next1manyimage,
+  .prev1manyimage {
+    display: none;
+  }
+
+  .about_section,
+  .rent p,
+  .welcomemsg h1,
+  .welcomemsg p {
+    text-align: center;
+  }
+
+  .logo {
+    background: #fff;
+    width: 100%;
+    position: static !important;
+  }
+
+  .inquryform {
+    width: 100% !important;
+    border: 0 !important;
+    border-radius: 0;
+  }
+
+  .formdiv {
+    right: 0 !important;
+    margin-right: 0 !important;
+    top: 0px !important;
+    margin-top: 0px;
+    position: static !important;
+  }
+
+  .fixwitdh1,
+  .form3 label,
+  .header {
+    width: 100%;
+  }
+
+  .logo img {
+    margin: 16px 0;
+  }
+
+  #responsive-menu-container #responsive-menu-wrapper {
+    z-index: 99999999999 !important;
+  }
+
+  .header {
+    background: #fff;
+  }
+
+  button#responsive-menu-button {
+    width: 40px !important;
+    height: 40px !important;
+    background: #009ddc !important;
+    position: absolute !important;
+    top: 69px !important;
+    right: 5% !important;
+  }
+
+  .carsection,
+  .carsection1,
+  .footer_class,
+  .footeraddres {
+    display: none !important;
+  }
+
+  .footermain-bg p {
+    display: none;
+  }
+
+  .classimgresponsive img,
+  .fixwitdh {
+    width: 100%;
+  }
+
+  .inquryform input {
+    margin-bottom: 0;
+  }
+
+  .form1 {
+    margin-bottom: 10px;
+    width: 49% !important;
+    margin: 3px 1.5px;
+  }
+
+  .welcomemsg h1 {
+    font-size: 23px;
+  }
+
+  .welcomemsg {
+    padding: 10px;
+  }
+
+  .middle {
+    padding: 15px 10px;
+  }
+
+  .form2 input {
+    margin-left: 0 !important;
+  }
+
+  .inquryform button {
+    width: 100%;
+    margin: 0;
+  }
+
+  .inquryform textarea {
+    border: 0px;
+    width: 98%;
+    margin: 3px auto;
+    display: block;
+  }
+
+  .about_section {
+    padding: 25px 0 !important;
+  }
+
+  .about_section h3 {
+    font-size: 25px;
+  }
+
+  .extraabout {
+    padding: 20px 15px !important;
+  }
+
+  .about_section a {
+    margin: 20px auto;
+  }
+
+  .about_section p {
+    padding-bottom: 0;
+  }
+
+  .rent h2 {
+    font-size: 18px;
+    line-height: 30px;
+  }
+
+  .rent {
+    padding: 25px 0;
+  }
+
+  .rent p {
+    padding: 0 !important;
+  }
+
+  .rent ul li {
+    display: inline-block;
+    padding: 3px 8px;
+    background: #1897bf;
+    margin: 5px;
+  }
+
+  .rent ul li a {
+    color: #fff;
+  }
+
+  .rotate_div {
+    transform: inherit;
+    width: 100%;
+    border: 1px solid #c5c5c5;
+    vertical-align: middle;
+    text-align: center;
+    height: 180px;
+  }
+
+  .rotate_div img {
+    transform: inherit;
+    width: 70%;
+    margin: 20px 0;
+  }
+
+  .rotate_div1 {
+    position: absolute;
+  }
+
+  .rotate_div:hover .rotate_div1 {
+    transform: inherit;
+    width: 98%;
+  }
+
+  .rotate_div1 h3 {
+    transform: inherit;
+    margin: 50px 0 !important;
+    font-size: 14px;
+  }
+
+  .rotatecar {
+    padding: 0px 0;
+  }
+
+  .innerser {
+    width: 77%;
+  }
+
+  .innerser h3 {
+    font-size: 16px;
+  }
+
+  .readmore a {
+    margin-top: 15px !important;
+  }
+
+  .one {
+    margin-top: 0;
+  }
+
+  .marginvlass {
+    padding: 0 !important;
+    margin-bottom: 10px;
+  }
+
+  .fixclass img {
+    margin-bottom: 10px;
+  }
+
+  .footermain-bg {
+    padding: 20px 0;
+  }
+
+  .lastfooterlink ul li {
+    margin-left: 0;
+    padding: 0 10px;
+  }
+
+  .solialliii i {
+    font-size: 22px;
+  }
+
+  .footermain-bottom p {
+    text-align: center;
+    font-size: 13px;
+  }
+
+  .textcen {
+    text-align: center !important;
+    padding-top: 5px;
+    font-size: 13px;
+  }
+
+  #responsive-menu-container
+    #responsive-menu
+    li.responsive-menu-item
+    .responsive-menu-item-link {
+    text-transform: uppercase !important;
+    font-family: latomedium !important;
+  }
+
+  .commonbg h4 {
+    padding: 25px 0 !important;
+    font-size: 20px;
+  }
+
+  .moreabout {
+    padding: 25px 15px !important;
+  }
+
+  .contatct {
+    margin: 20px 0 !important;
+  }
+
+  .contatct h5 {
+    text-align: center;
+    line-height: 30px;
+    font-size: 18px;
+  }
+
+  .contatct .form1 {
+    margin-bottom: 10px !important;
+  }
+
+  .contatct button {
+    width: 100% !important;
+  }
+
+  .lastcontact {
+    padding: 0;
+  }
+
+  .lastcontact ul li p {
+    font-size: 16px;
+  }
+
+  .map {
+    padding: 0 8px;
+  }
+
+  .current_page_item a {
+    color: #009ddc !important;
+  }
+
+  .positionclass {
+    right: -10px;
+  }
+
+  .fixclass img,
+  .popularimage img {
+    height: 100%;
+  }
+  .about-us {
+    margin-top: 25px;
+    margin-bottom: 0px;
+  }
+  .about-us h1 {
+    font-size: 20px;
+    margin-bottom: 10px !important;
+  }
+  .about-us p {
+    font-size: 13px;
+    padding-bottom: 5px;
+  }
+  .about-us img {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 100%;
+  }
+  .customer-reviews h2 {
+    font-size: 20px;
+    padding: 25px 0px 20px 0px !important;
+  }
+  .review-btn a {
+    font-size: 11px;
+    padding: 5px 10px;
+  }
+  .review-btn {
+    padding-top: 30px !important;
+  }
+  .review-box-resp {
+    padding-right: 0px;
+  }
+  .review-box-responsive {
+    padding-left: 0px;
+  }
+  .review-box-img {
+    margin-top: 10px;
+    margin-left: 15px;
+    width: 130%;
+  }
+  .review-box-img-about {
+    margin-top: 10px;
+    margin-left: 15px;
+    width: 100%;
+  }
+  .taxi-in-jodhpur h1 {
+    font-size: 25px;
+    margin-top: 30px !important;
+  }
+  .taxi-in-jodhpur p {
+    font-size: 13px;
+    line-height: 20px;
+    padding-bottom: 0px;
+  }
+  .jodhpur-btn a {
+    font-size: 12px;
+    padding: 7px 15px !important;
+  }
+  .jodhpur-btn {
+    margin-top: 20px !important;
+  }
+  .jodhpur-about-img {
+    margin-top: 25px !important;
+    margin-bottom: 30px;
+  }
+  .review-box i {
+    margin-top: 20px;
+    font-size: 11px;
+  }
+  .review-detail {
+    padding-left: 10px;
+  }
+  .review-box span {
+    font-size: 11px;
+  }
+  .review-box h3 {
+    font-size: 12px;
+    line-height: 20px;
+  }
+  .review-box h4 {
+    font-size: 13px !important;
+    padding-top: 5px !important;
+  }
+  .review-box p {
+    font-size: 12px;
+    padding-top: 5px !important;
+    padding-right: 15px;
+    line-height: 18px;
+  }
+  .review-box h5 a {
+    font-size: 11px;
+  }
+  .review-box h5 {
+    padding-top: 10px !important;
+  }
+  .review-box {
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+  }
+  .about-services h5 {
+    font-size: 25px;
+    padding-top: 25px !important;
+    padding-bottom: 20px !important;
+  }
+  .jcr-cars h6 {
+    font-size: 14px;
+    padding: 10px 10px !important;
+  }
+  .jcr-cars {
+    margin-bottom: 30px;
+  }
+  .cab-row {
+    padding-bottom: 10px;
+  }
+  .jcr-cars img {
+    width: 100%;
+  }
+  .tripadvisor-reviews h2 {
+    font-size: 20px;
+    padding: 25px 0px 20px 0px !important;
+  }
+  .tripadvisor-reviews-fluid {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+  .trip-box p a {
+    font-size: 11px;
+  }
+  .trip-review-p {
+    padding-right: 20px !important;
+  }
+  .trip-box hr {
+    width: 92% !important;
+    margin-top: 10px !important;
+  }
+  .abput-next-btn a {
+    font-size: 11px;
+    padding: 5px 15px;
+  }
+  .abput-next-btn {
+    margin-top: 20px !important;
+    margin-bottom: 25px !important;
+  }
+  .trip-row {
+    background: #ffffff;
+    margin-bottom: 20px;
+  }
+  .trip-box img {
+    margin-left: -15px !important;
+  }
+  .advisor-review {
+    margin-top: -10px;
+    margin-bottom: 10px;
+  }
+  .our-partners-row {
+    margin-bottom: 40px;
+  }
+  .price-table table thead tr th {
+    padding: 9px 16px !important;
+    font-size: 11px;
+  }
+  .th-width {
+    width: 57%;
+  }
+  .price-table h2 {
+    font-size: 12px;
+    padding-bottom: 10px !important;
+  }
+  .price-table table tbody tr td {
+    padding: 9px 16px !important;
+    font-size: 11px;
+  }
+  .price-table-bottom h3 {
+    font-size: 12px;
+    padding-bottom: 10px !important;
+  }
+  .price-table-bottom table thead tr th {
+    padding: 9px 16px !important;
+    font-size: 11px;
+  }
+  .thead-th-width {
+    width: 38%;
+  }
+  .price-table-bottom table tbody tr td {
+    padding: 9px 16px !important;
+    font-size: 11px;
+  }
+  .price-table {
+    margin-top: 0px;
+    margin-bottom: 15px;
+  }
+  .table-row {
+    margin-top: 30px;
+  }
+  .traveller-detail h4 {
+    font-size: 20px;
+    margin-top: 30px !important;
+    margin-bottom: 15px !important;
+  }
+  .traveller-detail-box i {
+    padding: 5px 9px;
+    font-size: 18px;
+    margin-right: 5px;
+  }
+  .traveller-que {
+    padding: 20px 20px 0px 20px !important;
+  }
+  .traveller-detail-box h5 p {
+    font-size: 12px;
+    font-size: 12px;
+    line-height: 18px;
+  }
+  .traveller-detail-box p {
+    font-size: 12px;
+    margin-bottom: 10px;
+    padding-left: 35px;
+  }
+  .traveller-detail-box h6 {
+    font-size: 12px !important;
+    padding: 12px 0px 12px 25px !important;
+  }
+  .traveller-detail-box h6 a {
+    font-size: 13px;
+    margin-left: 5px !important;
+  }
+  .traveller-input span {
+    font-size: 12px;
+  }
+  .traveller-detail-box {
+    margin-bottom: 30px;
+  }
+  .traveller-form h4 {
+    font-size: 20px;
+    margin-top: 0px !important;
+    margin-bottom: 10px !important;
+  }
+  .traveller-input input {
+    width: 100%;
+  }
+  .traveller-input textarea {
+    width: 100%;
+  }
+  .traveller-input button {
+    font-size: 12px;
+    padding: 6px 15px;
+  }
+  .traveller-input {
+    margin-bottom: 45px;
+  }
+  .traveller-seats {
+    margin-top: 30px;
+    margin-bottom: 0px;
+  }
+  .about-traveller h6 {
+    font-size: 17px;
+    padding-top: 25px !important;
+    padding-bottom: 10px !important;
+  }
+  .about-traveller p {
+    font-size: 13px;
+    line-height: 18px;
+    margin-bottom: 5px !important;
+  }
+  .traveller-img {
+    margin-top: 0px !important;
+  }
+  .about-us-traveller {
+    margin-bottom: 30px;
+    margin-top: 0px !important;
+  }
+  .seat-row {
+    padding-bottom: 15px;
+  }
+  .traveller-seats img {
+    width: 100%;
+  }
+  .jodhpur-taxi {
+    margin-top: 0px;
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  .jodhpur-taxi-btn a {
+    font-size: 12px;
+    padding: 7px 16px !important;
+  }
+  .price-table h3 {
+    font-size: 20px;
+    font-family: open_sanssemibold;
+    color: #333333;
+    padding-bottom: 15px !important;
+  }
+  .price-table .panel-title > a,
+  .price-table .panel-title > a:active {
+    padding: 9px 16px !important;
+    font-size: 11px;
+  }
+  .faq-collaps {
+    font-size: 12px !important;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 992px) {
+  button#responsive-menu-button {
+    display: none !important;
+  }
+
+  .logo {
+    background: 0 0 !important;
+    position: static !important;
+    width: 100% !important;
+  }
+
+  .marginvlass {
+    padding: 0 !important;
+    margin-bottom: 10px;
+    height: 162px;
+  }
+
+  .fixclass {
+    padding-top: 0px;
+  }
+
+  .positionclass,
+  .positionclass1 {
+    height: auto;
+    padding: 0px;
+    line-height: 30px;
+  }
+
+  .popularimage {
+    height: 150px;
+    margin: 0px;
+  }
+
+  .border_poly {
+    font-size: 11px;
+    padding: 0px;
+    height: auto;
+    line-height: 30px;
+  }
+
+  .popularimage:hover .popularimaghover {
+    display: block !important;
+    background: rgba(65, 149, 176, 0.68);
+    z-index: 99999999;
+    width: 100%;
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+    font-size: 11px;
+  }
+
+  .popularimage112:hover .popularimaghover112,
+  .popularimage11:hover .popularimaghover11 {
+    font-size: 11px;
+  }
+
+  .backgroundclass {
+    display: none;
+  }
+
+  .popularimage11 {
+    height: 100% !important;
+  }
+
+  /*last*/
+  .affix,
+  .logo {
+    position: static !important;
+  }
+
+  .inquryform {
+    width: 100% !important;
+    border: 0 !important;
+
+    background: url(../images/lakes.jpg) center center;
+    border-radius: 0;
+  }
+
+  .about-responsive {
+    display: block;
+    width: 60%;
+    float: left;
+    margin-right: 10px;
+  }
+
+  .form3 {
+    margin-left: 2px;
+    margin-top: 2px;
+  }
+
+  .fixwitdh1last {
+    width: 100%;
+  }
+
+  .pr0 {
+    padding: 5px 5px;
+  }
+
+  .rent ul {
+    display: none;
+  }
+
+  #main_slider {
+    display: none;
+  }
+
+  .difff1 {
+    margin-right: 2px;
+    margin-top: 2px;
+  }
+
+  /*latest Changes*/
+  .logo,
+  .popularimage11,
+  .popularimage11 img,
+  .popularimage112,
+  .popularimage112 img {
+    height: auto;
+  }
+
+  .indiaflag,
+  .indiaflag1,
+  .main_menu,
+  .next1manyimage,
+  .prev1manyimage {
+    display: none;
+  }
+
+  .about_section,
+  .rent p,
+  .welcomemsg h1,
+  .welcomemsg p {
+    text-align: center;
+  }
+
+  .logo {
+    background: #fff;
+    width: 100%;
+    position: static !important;
+  }
+
+  .inquryform {
+    width: 100% !important;
+    border: 0 !important;
+    border-radius: 0;
+  }
+
+  .formdiv {
+    right: 0 !important;
+    margin-right: 0 !important;
+    top: 0px !important;
+    margin-top: 0px;
+    position: static !important;
+  }
+
+  .fixwitdh1,
+  .form3 label,
+  .header {
+    width: 100%;
+  }
+
+  .logo img {
+    margin: 16px 0;
+  }
+
+  #responsive-menu-container #responsive-menu-wrapper {
+    z-index: 99999999999 !important;
+  }
+
+  .header {
+    background: #fff;
+  }
+
+  button#responsive-menu-button {
+    width: 40px !important;
+    height: 40px !important;
+    background: #009ddc !important;
+    position: absolute !important;
+    top: 60px !important;
+    right: 5% !important;
+  }
+
+  .carsection,
+  .carsection1,
+  .footer_class,
+  .footeraddres {
+    display: none !important;
+  }
+
+  .footermain-bg p {
+    display: none;
+  }
+
+  .classimgresponsive img,
+  .fixwitdh {
+    width: 100%;
+  }
+
+  .inquryform input {
+    margin-bottom: 0;
+  }
+
+  .form1 {
+    margin-bottom: 10px;
+    width: 49% !important;
+    margin: 3px 1.5px;
+  }
+
+  .welcomemsg h1 {
+    font-size: 23px;
+  }
+
+  .welcomemsg {
+    padding: 10px;
+  }
+
+  .middle {
+    padding: 15px 10px;
+  }
+
+  .form2 input {
+    margin-left: 0 !important;
+  }
+
+  .inquryform button {
+    width: 100%;
+    margin: 0;
+  }
+
+  .inquryform textarea {
+    border: 0px;
+    width: 98%;
+    margin: 3px auto;
+    display: block;
+  }
+
+  .about_section {
+    padding: 25px 0 !important;
+  }
+
+  .about_section h3 {
+    font-size: 25px;
+  }
+
+  .extraabout {
+    padding: 20px 15px !important;
+  }
+
+  .about_section a {
+    margin: 20px auto;
+  }
+
+  .about_section p {
+    padding-bottom: 0;
+  }
+
+  .rent h2 {
+    font-size: 18px;
+    line-height: 30px;
+  }
+
+  .rent {
+    padding: 25px 0;
+  }
+
+  .rent p {
+    padding: 0 !important;
+  }
+
+  .rent ul li {
+    display: inline-block;
+    padding: 3px 8px;
+    background: #1897bf;
+    margin: 5px;
+  }
+
+  .rent ul li a {
+    color: #fff;
+  }
+
+  .rotate_div {
+    transform: inherit;
+    width: 100%;
+    border: 1px solid #c5c5c5;
+    vertical-align: middle;
+    text-align: center;
+    height: 180px;
+  }
+
+  .rotate_div img {
+    transform: inherit;
+    width: 70%;
+    margin: 20px 0;
+  }
+
+  .rotate_div1 {
+    position: absolute;
+  }
+
+  .rotate_div:hover .rotate_div1 {
+    transform: inherit;
+    width: 98%;
+  }
+
+  .rotate_div1 h3 {
+    transform: inherit;
+    margin: 50px 0 !important;
+    font-size: 14px;
+  }
+
+  .rotatecar {
+    padding: 0px 0;
+  }
+
+  .innerser {
+    width: 77%;
+  }
+
+  .innerser h3 {
+    font-size: 16px;
+  }
+
+  .readmore a {
+    margin-top: 15px !important;
+  }
+
+  .one {
+    margin-top: 0;
+  }
+
+  .marginvlass {
+    padding: 0 !important;
+    margin-bottom: 10px;
+  }
+
+  .fixclass img {
+    margin-bottom: 10px;
+  }
+
+  .footermain-bg {
+    padding: 20px 0;
+  }
+
+  .lastfooterlink ul li {
+    margin-left: 0;
+    padding: 0 10px;
+  }
+
+  .solialliii i {
+    font-size: 22px;
+  }
+
+  .footermain-bottom p {
+    text-align: center;
+    font-size: 13px;
+  }
+
+  .textcen {
+    text-align: center !important;
+    padding-top: 5px;
+    font-size: 13px;
+  }
+
+  #responsive-menu-container
+    #responsive-menu
+    li.responsive-menu-item
+    .responsive-menu-item-link {
+    text-transform: uppercase !important;
+    font-family: latomedium !important;
+  }
+
+  .commonbg h4 {
+    padding: 25px 0 !important;
+    font-size: 20px;
+  }
+
+  .moreabout {
+    padding: 25px 15px !important;
+  }
+
+  .contatct {
+    margin: 20px 0 !important;
+  }
+
+  .contatct h5 {
+    text-align: center;
+    line-height: 30px;
+    font-size: 18px;
+  }
+
+  .contatct .form1 {
+    margin-bottom: 10px !important;
+  }
+
+  .contatct button {
+    width: 100% !important;
+  }
+
+  .lastcontact {
+    padding: 0;
+  }
+
+  .lastcontact ul li p {
+    font-size: 16px;
+  }
+
+  .map {
+    padding: 0 8px;
+  }
+
+  .current_page_item a {
+    color: #009ddc !important;
+  }
+
+  .positionclass {
+    right: -10px;
+  }
+
+  .fixclass img,
+  .popularimage img {
+    height: 100%;
+  }
+
+  .classimgresponsive {
+    display: none;
+  }
+  .about-us {
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  .about-us h1 {
+    font-size: 25px;
+    margin-bottom: 10px !important;
+  }
+  .about-us p {
+    font-size: 13px;
+    line-height: 20px;
+    padding-bottom: 5px;
+  }
+  .reviews {
+    padding-bottom: 10px;
+  }
+  .customer-reviews h2 {
+    font-size: 22px;
+    padding: 25px 0px 15px 0px !important;
+  }
+  .review-btn {
+    padding-top: 34px !important;
+    margin-bottom: 20px !important;
+  }
+  .review-btn a {
+    font-size: 13px;
+    padding: 5px 14px;
+  }
+  .review-detail {
+    padding: 0px 0px 0px 23px;
+  }
+  .review-box-img {
+    margin-top: 15px;
+    margin-left: 20px;
+    width: 150% !important;
+  }
+  .review-box-img-about {
+    margin-top: 15px;
+    margin-left: 20px;
+    width: 100% !important;
+  }
+  .jodhpur-taxi-btn a {
+    font-size: 12px;
+    font-family: open_sanssemibold;
+    color: #ffffff;
+    background: #009ddc;
+    padding: 6px 16px !important;
+    text-decoration: none !important;
+  }
+  .price-table h3 {
+    font-size: 20px;
+    padding-bottom: 15px !important;
+    margin-top: -10px !important;
+  }
+  .advisor-review {
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+  .review-box span {
+    font-size: 11px;
+  }
+  .review-box h3 {
+    font-size: 13px;
+    line-height: 21px;
+  }
+  .review-box h4 {
+    font-size: 14px !important;
+    padding-top: 5px !important;
+  }
+  .review-box p {
+    font-size: 12px;
+    line-height: 1.643;
+    text-align: justify;
+  }
+  .review-box i {
+    margin-top: 20px;
+    font-size: 12px;
+  }
+  .review-box h5 {
+    padding-top: 10px !important;
+  }
+  .review-box h5 a {
+    font-size: 11px;
+  }
+  .review-box {
+    padding-bottom: 20px;
+  }
+  .about-services h5 {
+    font-size: 30px;
+    padding-top: 25px !important;
+    padding-bottom: 25px !important;
+  }
+  .jcr-cars {
+    margin-bottom: 30px;
+  }
+  .jcr-cars img {
+    width: 100%;
+  }
+  .jcr-cars h6 {
+    font-size: 17px;
+    padding: 14px 14px !important;
+  }
+  .tripadvisor-reviews h2 {
+    font-size: 22px;
+    padding: 30px 0px 18px 15px !important;
+  }
+  .trip-row {
+    margin-bottom: 30px;
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+  .trip-review-p {
+    padding-right: 10px !important;
+    padding-top: 15px !important;
+    line-height: 20px !important;
+  }
+  .trip-box p a {
+    font-size: 11px;
+    padding-top: 10px !important;
+  }
+  .trip-box hr {
+    width: 100% !important;
+    margin-top: 10px !important;
+  }
+  .trip-box img {
+    margin-left: -15px !important;
+    margin-bottom: -10px !important;
+  }
+  .abput-next-btn {
+    margin-top: 20px !important;
+    margin-bottom: 20px !important;
+    margin-right: 20px !important;
+  }
+  .abput-next-btn a {
+    font-size: 13px;
+    padding: 5px 18px;
+  }
+  .cab-row {
+    padding-bottom: 10px;
+  }
+  .partners-resp {
+    padding-right: 30px !important;
+    padding-left: 15px !important;
+  }
+  .our-partners-row {
+    margin-bottom: 40px;
+  }
+  .price-table table thead tr th {
+    padding: 11px 16px !important;
+    font-size: 12px;
+  }
+  .price-table-jodhpur table thead tr th {
+    padding: 11px 10px !important;
+    font-size: 11px !important;
+  }
+  .price-table .panel-title > a,
+  .price-table .panel-title > a:active {
+    padding: 12px 12px !important;
+    font-size: 12px;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+  }
+  .faq-collaps {
+    font-size: 11px !important;
+    color: #4f4f4f !important;
+  }
+  .price-table .panel-body {
+    padding: 3px 11px;
+  }
+  .th-width {
+    width: 57%;
+  }
+  .price-table h2 {
+    font-size: 14px;
+    padding-bottom: 20px !important;
+  }
+  .price-table table tbody tr td {
+    padding: 11px 16px !important;
+    font-size: 12px;
+  }
+  .price-table-bottom h3 {
+    font-size: 14px;
+    padding-bottom: 20px !important;
+  }
+  .price-table-bottom table thead tr th {
+    padding: 11px 16px !important;
+    font-size: 12px;
+  }
+  .thead-th-width {
+    width: 55%;
+  }
+  .price-table-bottom table tbody tr td {
+    padding: 11px 16px !important;
+    font-size: 12px;
+  }
+  .price-table {
+    margin-top: 40px;
+    margin-bottom: 30px;
+  }
+  .traveller-detail h4 {
+    font-size: 25px;
+    margin-top: 35px !important;
+    margin-bottom: 20px !important;
+  }
+  .traveller-detail-box h5 p {
+    font-size: 14px;
+  }
+  .traveller-detail-box p {
+    font-size: 13px;
+    margin-bottom: 10px;
+  }
+  .traveller-detail-box h6 {
+    font-size: 13px !important;
+    padding: 13px 0px 13px 25px !important;
+  }
+  .traveller-detail-box h6 a {
+    font-size: 15px;
+    margin-left: 5px !important;
+  }
+  .traveller-detail-box {
+    margin-bottom: 30px;
+  }
+  .traveller-form h4 {
+    font-size: 25px;
+    margin-top: 0px !important ;
+    margin-bottom: 20px !important;
+  }
+  .traveller-input input {
+    width: 100%;
+  }
+  .traveller-input textarea {
+    width: 100%;
+  }
+  .traveller-input button {
+    font-size: 13px;
+    padding: 8px 20px;
+  }
+  .traveller-input {
+    margin-bottom: 45px;
+  }
+  .traveller-seats {
+    margin-top: 35px;
+    margin-bottom: 25px;
+  }
+  .about-traveller h6 {
+    font-size: 19px;
+    padding-top: 35px !important;
+    padding-bottom: 20px !important;
+  }
+  .about-traveller p {
+    font-size: 14px;
+    line-height: 20px;
+    margin-bottom: 10px !important;
+  }
+  .taxi-in-jodhpur h1 {
+    font-size: 30px;
+    margin-top: 30px !important;
+  }
+  .taxi-in-jodhpur p {
+    font-size: 13px;
+    line-height: 20px;
+    padding-top: 5px !important;
+    padding-bottom: 0px;
+  }
+  .jodhpur-btn a {
+    font-size: 12px;
+    padding: 6px 16px !important;
+  }
+}
+@media only screen and (min-width: 993px) and (max-width: 1024px) {
+  .th-width {
+    width: 65%;
+  }
+  .thead-th-width {
+    width: 60%;
+  }
+  .traveller-input input {
+    height: 35px;
+    width: 100%;
+  }
+  .traveller-input textarea {
+    height: 65px;
+    width: 100%;
+  }
+  .traveller-input button {
+    padding: 8px 20px;
+  }
+  .traveller-detail-box h5 p {
+    font-size: 14px;
+  }
+  .traveller-detail-box p {
+    font-size: 13px;
+    margin-bottom: 15px;
+  }
+  .traveller-detail-box h6 {
+    padding: 13px 0px 13px 25px !important;
+  }
+  .traveller-detail-box h6 a {
+    font-size: 16px;
+    margin-left: 6px !important;
+  }
+  .review-box-img {
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 100% !important;
+  }
+  .taxi-in-jodhpur p {
+    font-family: open_sansregular;
+    color: #4f4f4f;
+    font-size: 14px;
+    line-height: 1.8;
+    padding-top: 10px !important;
+    padding-bottom: 0px;
+    text-align: center;
+  }
+}
